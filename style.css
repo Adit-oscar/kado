@@ -1,0 +1,10 @@
+* {
+  margin:0;
+  padding:0;
+  border-box: box-sizing;
+}
+
+body {
+  display:grid;
+  align-item: center;
+}
