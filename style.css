@@ -6,4 +6,6 @@
 
 body {
   background-color: red;
+  display: flex;
+  align-item: center;
 }
