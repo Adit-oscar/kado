@@ -5,6 +5,5 @@
 }
 
 body {
-  display:grid;
-  align-item: center;
+  background-collor: red;
 }
