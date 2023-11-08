@@ -5,7 +5,9 @@
 }
 
 body {
+  height: 100vh;
   background-color: red;
   display: flex;
-  align-item: center;
+  justify-content:center;
+  align-items: center;
 }
